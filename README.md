@@ -1,5 +1,18 @@
 # MERN-e_commerce (public)
 
+"/ventas"
+
+    Nuevo crud para generar ventas,
+        crud de productos, 
+            busqueda
+            adicion
+            edicion de cantidad y valor
+            update en db restando productos comprados
+            resumen de conteo y total valor
+            TODO: img...
+
+
+"/productos"
 "/"
 
     last 5 products added
